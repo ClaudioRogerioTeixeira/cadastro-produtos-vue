@@ -2,7 +2,7 @@
   <nav>
     <div class="nav-wrapper">
       <!-- <span>Cadastro Produtos</span> -->
-      <router-link to="/" id="logo_url"><img src="../assets/logoScontorno.png" alt="Cadastro de Produtos" id="logo"></router-link>      
+      <router-link to="/" id="logo_url"><img src="../assets/logo.png" alt="Cadastro de Produtos" id="logo"></router-link>      
       <ul id="nav-mobile" class="right">
         <li><router-link to="/">Home</router-link></li>
         <li><router-link to="/produtos">Produtos</router-link></li>

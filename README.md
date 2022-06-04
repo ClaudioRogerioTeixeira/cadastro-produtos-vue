@@ -1,5 +1,5 @@
 # Cadastro de Produtos Vue
-Cadastro de Produtos (Vue 3, API NODE/Json-Server)
+Cadastro de Produtos (Vue 3, Materialize, Axios)
 
 ## Frontend:
 - npm install
@@ -13,7 +13,7 @@ Local:
 ## Tecnologias
 - Vue 3
 - Materialize
-- Json-Server
+- Axios
 
 # Link:
 

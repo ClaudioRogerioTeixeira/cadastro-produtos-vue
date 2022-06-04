@@ -47,6 +47,10 @@
 </script>
 
 <style scoped>
+  .container {
+    overflow-y: auto;
+    margin-bottom: 50px;
+  }
   .span-wrapper {
     color: #FFF;
     background:  #42b983;
@@ -64,5 +68,5 @@
   }
   #btn-salvar {
     margin-left: 10px;
-  }  
+  }
 </style>

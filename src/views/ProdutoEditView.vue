@@ -3,7 +3,7 @@
     <div class="span-wrapper">
       <span>Alteração Produto</span>
     </div>    
-    <form @submit="save()"> <!-- @submit.prevent="save" -->
+    <form> <!--  @submit="save()" -->
       <label>Id</label>
       <input type="text" placeholder="Id" v-model="produto.id" readonly>
       <label>Nome</label>
